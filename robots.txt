@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shree-gajanan-caterers.vercel.app/sitemap.xml
