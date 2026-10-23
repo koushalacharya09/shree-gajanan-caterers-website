@@ -1,0 +1,44 @@
+{
+  "currency": "INR",
+  "disclaimer": "Indicative planning ranges only. Final quote depends on menu, venue, staffing and date. Not a published rate card.",
+  "events": [
+    {
+      "id": "wedding",
+      "label": "Wedding / Reception",
+      "labelHi": "शादी / रिसेप्शन",
+      "perPlate": { "min": 650, "max": 1800 }
+    },
+    {
+      "id": "destination",
+      "label": "Destination wedding",
+      "labelHi": "डेस्टिनेशन वेडिंग",
+      "perPlate": { "min": 800, "max": 2200 }
+    },
+    {
+      "id": "sawamani",
+      "label": "Sawamani / Prashadi",
+      "labelHi": "सवामणी / प्रसादी",
+      "perPlate": { "min": 250, "max": 700 }
+    },
+    {
+      "id": "corporate",
+      "label": "Corporate / Opening",
+      "labelHi": "कॉर्पोरेट / उद्घाटन",
+      "perPlate": { "min": 450, "max": 1200 }
+    },
+    {
+      "id": "birthday",
+      "label": "Birthday / Anniversary / Kitty",
+      "labelHi": "जन्मदिन / सालगिरह / किटी",
+      "perPlate": { "min": 400, "max": 1100 }
+    },
+    {
+      "id": "hightea",
+      "label": "High tea / Brunch",
+      "labelHi": "हाई टी / ब्रंच",
+      "perPlate": { "min": 280, "max": 750 }
+    }
+  ],
+  "guestMinimum": 50,
+  "logisticsNote": "Outdoor and outstation events may add kitchen, transport and staffing costs. Share your date for a call-back."
+}

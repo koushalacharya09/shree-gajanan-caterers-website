@@ -1,0 +1,1714 @@
+{
+  "generatedAt": "2026-10-23T07:14:03.157Z",
+  "count": 74,
+  "heroIds": [
+    "g68-img-20240627-wa0036",
+    "g66-gmb8",
+    "g59-gmb12",
+    "g47-79ffe0afe5a0f890cdd6d8ee1020846e",
+    "g71-img-20240627-wa0039",
+    "g61-gmb3",
+    "g63-gmb5",
+    "g56-gmb1"
+  ],
+  "photos": [
+    {
+      "id": "g67-gmb9",
+      "file": "gmb9.jpg",
+      "width": 675,
+      "height": 1200,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 88.82,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g67-gmb9-w640.avif",
+          "675": "/gallery/g67-gmb9-w675.avif"
+        },
+        "webp": {
+          "640": "/gallery/g67-gmb9-w640.webp",
+          "675": "/gallery/g67-gmb9-w675.webp"
+        }
+      },
+      "srcWebp": "/gallery/g67-gmb9-w675.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoNABgAPzmGuVOvKSWisAgB4CcJbACdMoRisAwQEf6qTroswarAAP7jhKWciRm9p5sNnD9XEt8NrYdGaoVthQ2nBQ/rVHUkdrJQ6AGhhILJ7+czfd9EPABynuRuJ4BkVuHcTwAeZCm0VFCxt6szqrV+WLuFfvEB3yyIu+WxB9beoiK+I3cLCZtk0gAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g05-1-sm447593-1",
+      "file": "1-SM447593 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 85.53,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g05-1-sm447593-1-w640.avif",
+          "900": "/gallery/g05-1-sm447593-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g05-1-sm447593-1-w640.webp",
+          "900": "/gallery/g05-1-sm447593-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g05-1-sm447593-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdMoR4HtAZYJn8NewfKoCfZtQhVAD7vAn9GQLNOVPX1n5hEO1kgM0qziVhn4LCOR9n32Bk1S1Wj+achwDSemepfHujPWZXR87kAFo0iN7lTLaYGQnmRQUtJ/PaC/HDSUXc2ja1EkLquKYOwvjITyLRiJ/gukIkn1LEv/tAURjpBB02uE5SuiBWKX8BDmm5f8RT7yhDoFIjrfb2vxj94mAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g06-1-sm447595-1",
+      "file": "1-SM447595 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 81.89,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g06-1-sm447595-1-w640.avif",
+          "900": "/gallery/g06-1-sm447595-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g06-1-sm447595-1-w640.webp",
+          "900": "/gallery/g06-1-sm447595-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g06-1-sm447595-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdMoEUOgUOBwGHHTu1ub5V+uWPgAD+cyNioZThSF2mclKr+HQi6njMLNVDZA1Yymwe0HcybjZ01562yHNnz5XKiDfkBQZzaqcSWdaTW7WWBcCmu/M0exVAWlY0eVRUX9LxLnf/Ya9Trk9zfEIEwEnNNV0AHW/tk1yYjGCFpQMPraCctlJnVDdX/L5DcVmMmRHMuI2LfM0mU0puhrLudUAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g38-370e1c27e2d87ef67be56feaa5ce4ea9",
+      "file": "370e1c27e2d87ef67be56feaa5ce4ea9.jpg",
+      "width": 1120,
+      "height": 1680,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 81.12,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g38-370e1c27e2d87ef67be56feaa5ce4ea9-w640.avif",
+          "1120": "/gallery/g38-370e1c27e2d87ef67be56feaa5ce4ea9-w1120.avif"
+        },
+        "webp": {
+          "640": "/gallery/g38-370e1c27e2d87ef67be56feaa5ce4ea9-w640.webp",
+          "1120": "/gallery/g38-370e1c27e2d87ef67be56feaa5ce4ea9-w1120.webp"
+        }
+      },
+      "srcWebp": "/gallery/g38-370e1c27e2d87ef67be56feaa5ce4ea9-w1120.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBACdASoQABgAPzmGuVOvKKWisAgB4CcJbACdMoR3ACnIl+O9J071QfG4+AD+6L5soXfg9bnUVDYVkVGo/aLAs0phnev53YsQ1KB5S1WuZGyyHb0dm5XGDdqsyDZT9VYSAXKhjikUseFm50CukCGBrdgAAA==",
+      "hero": false
+    },
+    {
+      "id": "g15-15-sm447594",
+      "file": "15-SM447594.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 80.61,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g15-15-sm447594-w640.avif",
+          "900": "/gallery/g15-15-sm447594-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g15-15-sm447594-w640.webp",
+          "900": "/gallery/g15-15-sm447594-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g15-15-sm447594-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADwBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdMoRwA8AVyK1c8FiPWGaN9wFBwXgA/aA6ABFs2sHqd1+Lt1xv03mHv6tTntDHnjgqjZ4aIpHIOThlhD92jV40ZooKY626hqphsNHiPVDe4O1u34zJtRiADSOQqYS1aRMWbkztB1bQaZJ7rinhuhd85ETMsXxHvX3QMc7LZlGTZF2FcgC9JixGdRnL87C8YOqu3Sv3GbYRBXx6bu4J8mKyF/MeYHhjm+YCZPgAAA==",
+      "hero": false
+    },
+    {
+      "id": "g72-img-20240627-wa0040",
+      "file": "IMG-20240627-WA0040.jpg",
+      "width": 765,
+      "height": 1020,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 77.41,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g72-img-20240627-wa0040-w640.avif",
+          "765": "/gallery/g72-img-20240627-wa0040-w765.avif"
+        },
+        "webp": {
+          "640": "/gallery/g72-img-20240627-wa0040-w640.webp",
+          "765": "/gallery/g72-img-20240627-wa0040-w765.webp"
+        }
+      },
+      "srcWebp": "/gallery/g72-img-20240627-wa0040-w765.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBQCdASoSABgAPzmOwVcvKaejqAqp4CcJYgCdABEcLPsILfokHBT9rzaSR/PLJmkYwAAA/ujDDRkGirMgXXgM9k39s8exn4JZ2aBlv9KKN/24GPp+QFg3zCHLBSfOCu72nm+kOduRpiI8UoWJOYqKUzdaMChnARWgyTw94p6uFVj7p/peKUdKhrHi4oGNY/qmnDIoqGSqVI3DpCAlV+401ypQZtgA",
+      "hero": false
+    },
+    {
+      "id": "g10-12-sm380948",
+      "file": "12-SM380948.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 77.35,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g10-12-sm380948-w640.avif",
+          "900": "/gallery/g10-12-sm380948-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g10-12-sm380948-w640.webp",
+          "900": "/gallery/g10-12-sm380948-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g10-12-sm380948-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwBACdASoYABAAPzmEuVOvKKWisAgB4CcJQBfJAw7Mtmhogt4NS8dmcMAA/uNLMgY4AFVQHNAPKMR2Qn+EAzCWbJXfh4lbI/9pydpwO3kKlJJxLBFiEhLQijGn9PnNSPNKWVOavzAMxqMor+bhKd/tapWDahknJpxToPzsGdIPYkF8cpYGsxHYAAA=",
+      "hero": false
+    },
+    {
+      "id": "g03-1-sm216170",
+      "file": "1-SM216170.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Night wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 77.23,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g03-1-sm216170-w640.avif",
+          "900": "/gallery/g03-1-sm216170-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g03-1-sm216170-w640.webp",
+          "900": "/gallery/g03-1-sm216170-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g03-1-sm216170-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoYABAAPzmEuVOvKKWisAgB4CcJYgCdMoBOACA7+2h4bZWl1QAA/T3klv9GIdaKdvqtzOsvjzWQoyH5WJox5Vk8/MshNd9Qbejy/Nn4/egLRCsYkZELdo+NbLg6T9jb650/WNxLjvAtqp7Bz9ylkjF9FwGzcgBecg/pKg5KJ2JsfjgWb3A6viJw9YgDXZ4kwAA=",
+      "hero": false
+    },
+    {
+      "id": "g31-220-sm303283",
+      "file": "220-SM303283.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 76.74,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g31-220-sm303283-w640.avif",
+          "900": "/gallery/g31-220-sm303283-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g31-220-sm303283-w640.webp",
+          "900": "/gallery/g31-220-sm303283-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g31-220-sm303283-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABwBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdMoR3ACfID318zkb1CDPRAAD+Lfx6bIi25oGHiJu0/GyvRC6vZnSykTD2kCn8q6QZLzZ6AZ8otYimPknh2cVsKg4xP/8zrZjRP3z9BFP0QVLYEFcJ1iig6K2bZW7K4mHrYQaqmubkPN8zeiozgjjOaAZcZ0pMvxQA",
+      "hero": false
+    },
+    {
+      "id": "g66-gmb8",
+      "file": "gmb8.jpg",
+      "width": 1200,
+      "height": 900,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 76.53,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g66-gmb8-w640.avif",
+          "1200": "/gallery/g66-gmb8-w1200.avif"
+        },
+        "webp": {
+          "640": "/gallery/g66-gmb8-w640.webp",
+          "1200": "/gallery/g66-gmb8-w1200.webp"
+        }
+      },
+      "srcWebp": "/gallery/g66-gmb8-w1200.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABQBQCdASoYABIAPzmQvFgvKaWjqAqp4CcJbACdMoM0bB6t73z8g0aAIvbQO1sb9D5iRcAA9E/0a7njGn6KNg0CVR3nImOGj05XAOb9jVmirdh7DLEj6qlE3M3y9IhFZaU8r9QfG3RT9gTLCVy/4+XjHa8z7azE6OfqhAEHkK/JR8ik+1Xa9YMkDZhVdw/bG7GER0xpkNQGu2AcipGxxqak5MeejM8+amKbD76ZXp4SledlbL5Y7NG4Bkz7Xc08AAA=",
+      "hero": true
+    },
+    {
+      "id": "g59-gmb12",
+      "file": "gmb12.jpg",
+      "width": 720,
+      "height": 540,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 76.08,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g59-gmb12-w640.avif",
+          "720": "/gallery/g59-gmb12-w720.avif"
+        },
+        "webp": {
+          "640": "/gallery/g59-gmb12-w640.webp",
+          "720": "/gallery/g59-gmb12-w720.webp"
+        }
+      },
+      "srcWebp": "/gallery/g59-gmb12-w720.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwBACdASoYABIAPzmOvVgvKaYjqAqp4CcJQBZwAfzH0l1eisNXrHCtkvn/mAD+zNNgWmomCaOzGBVb4gRTio7124KIfW2oBefR2gJIknkleUscIGX1CXMZwbKDfoJl2P4uagGfxYpAC3R5Z3MJidH/2KR5DmF2QAFyYtqAAAA=",
+      "hero": true
+    },
+    {
+      "id": "g08-10-sm447600-1",
+      "file": "10-SM447600 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 75.43,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g08-10-sm447600-1-w640.avif",
+          "900": "/gallery/g08-10-sm447600-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g08-10-sm447600-1-w640.webp",
+          "900": "/gallery/g08-10-sm447600-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g08-10-sm447600-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoRwFf/l2CyAF7GDyPa/lkFOMQeAAP4zOGXZ144nbO9KvoqY6yzymdVrO9sQe/AXCYNLbbXcyGsKX41ZrlPfCoheV/aTW86g+tbyl+4Q1Guuub95PX27kL5Iu1mLa927feVYA3bPOS59MPNgGuyqJxfbIGVCD7X7Nr4sfe2dM6UL8sDMzz3pTBQdr5oq2120dBoDLKU6d67iwHzfO3K9X9xfEgA=",
+      "hero": false
+    },
+    {
+      "id": "g63-gmb5",
+      "file": "gmb5.jpg",
+      "width": 720,
+      "height": 477,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 74.83,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g63-gmb5-w640.avif",
+          "720": "/gallery/g63-gmb5-w720.avif"
+        },
+        "webp": {
+          "640": "/gallery/g63-gmb5-w640.webp",
+          "720": "/gallery/g63-gmb5-w720.webp"
+        }
+      },
+      "srcWebp": "/gallery/g63-gmb5-w720.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAwCdASoYABAAPzmGuVOvKSWisAgB4CcJYwDDNBuNDdQrboG2A6swAP5AUbFcR6+vekH4NRXz1TtIZ7pSp/tWDSWFIOKsD/5UioGXB8fS13l+vj3uDDjBCMbcVpu3ClJmL0o6J8tt2RiuARxjkYg9ifoAAA==",
+      "hero": true
+    },
+    {
+      "id": "g65-gmb7",
+      "file": "gmb7.jpg",
+      "width": 675,
+      "height": 1200,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 74.67,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g65-gmb7-w640.avif",
+          "675": "/gallery/g65-gmb7-w675.avif"
+        },
+        "webp": {
+          "640": "/gallery/g65-gmb7-w640.webp",
+          "675": "/gallery/g65-gmb7-w675.webp"
+        }
+      },
+      "srcWebp": "/gallery/g65-gmb7-w675.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAwCdASoNABgAPzmEuVOvKKWisAgB4CcJagAATBEH+svL3XhwAP7QROC2/5WugZoefkvibEasLzeOKkNgu6vBQKi85gDnyTYCZO5ErHiFhZvYp4gte1mfnfdDaZXr7m3T55cV9qF0ZPcC2EoyD+P3UkUoPOY4AAA=",
+      "hero": false
+    },
+    {
+      "id": "g28-20-sm246214",
+      "file": "20-SM246214.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 74.08,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g28-20-sm246214-w640.avif",
+          "900": "/gallery/g28-20-sm246214-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g28-20-sm246214-w640.webp",
+          "900": "/gallery/g28-20-sm246214-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g28-20-sm246214-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwAwCdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoMYADim2HoRV3agAPzc4ltJWtiB1iwx90b6o2sL15mJou1+JWcUMLF2EMlS2yTgn6wzCLXsfnS0c3dGvbsXsMJkWHo+J//UdvroC4zrY1TckWDOPMZ2dlgG1oV1VoCvKdVHDWn3zQlBQqMF9o1iFV9usy/RnHFcWpEV+Vf7CiHqSyH8RMIAAA==",
+      "hero": false
+    },
+    {
+      "id": "g02-1-sm216165",
+      "file": "1-SM216165.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Night wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 73.67,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g02-1-sm216165-w640.avif",
+          "900": "/gallery/g02-1-sm216165-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g02-1-sm216165-w640.webp",
+          "900": "/gallery/g02-1-sm216165-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g02-1-sm216165-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABAAPzmGuVOvKSWisAgB4CcJZACdMoADZgxNCNE/TkfFVgAA/qaPzjE8Ttytv3nw5Blb32YRg/TxIQCR12MD96Uv5vkFyinF5XeRbeGiulQJ20/47i6v2eO4slrJEKn2rgA5DPByi0fS97CK6Xe1Qz7CfeBFjMqp87gFAp+onOXIL1wSBwFBr4AAAA==",
+      "hero": false
+    },
+    {
+      "id": "g13-13-sm216173-1",
+      "file": "13-SM216173 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Night wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 73.56,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g13-13-sm216173-1-w640.avif",
+          "900": "/gallery/g13-13-sm216173-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g13-13-sm216173-1-w640.webp",
+          "900": "/gallery/g13-13-sm216173-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g13-13-sm216173-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYABAAPzmEuVOvKKWisAgB4CcJQBYeNQAiz7mCOghdyLw+QAD+uxQuLcZG+GHXBxGOQkhLYWcfSstP3nPtlRNhQzlZ82MScyWwwhEq4t9Yi6b2TBfGv3B6T8v9FzuxEmSn+p2hD3dEvlMkgNmU4j/i9Lsvqx/pJ1jhAPHIaN6yFwfXKEfegJxoAAA=",
+      "hero": false
+    },
+    {
+      "id": "g04-1-sm447568-1",
+      "file": "1-SM447568 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 73.49,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g04-1-sm447568-1-w640.avif",
+          "900": "/gallery/g04-1-sm447568-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g04-1-sm447568-1-w640.webp",
+          "900": "/gallery/g04-1-sm447568-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g04-1-sm447568-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADwAwCdASoYABAAPzmGuVOvKSWisAgB4CcJbACdAYyotHLHf8uAPp+AAP6z5ayqdOp8wZ/RExn0aTors49PdQGVCtkNex/jr4EbSiMLIWz3y3PDJeIoNTQjk8m5LHN0/l3buWkCaD9mx4dv7g8SbfEhQuvQWggYd0ZPhK5aND3f43o4XmUj5iMC96LY/sQe/IBYf1qqnrjJagebkDJDtUueGH2yFAZfp07dmWbtFptz6fcDV/mLwUQAAAA=",
+      "hero": false
+    },
+    {
+      "id": "g45-7-sm246213",
+      "file": "7-SM246213.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 73.26,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g45-7-sm246213-w640.avif",
+          "900": "/gallery/g45-7-sm246213-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g45-7-sm246213-w640.webp",
+          "900": "/gallery/g45-7-sm246213-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g45-7-sm246213-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoAlwBZQo6u+nKmjGsAIAPldj9W4+7sR5tX9592tEJRMW6umeRL6Kjznrvb552iEZ7x1/cAMnwu2DsapGc8YCe8AJdbowC50t/eSuaM2y1LODErOySaGvSMDlo69G0KEqXdi1XQKMwuHWxS2CSHmapNgt4/UavoZH1+i6b4AAAA=",
+      "hero": false
+    },
+    {
+      "id": "g40-40e3f69a6d8f5b1b8208d484e4b7e173",
+      "file": "40e3f69a6d8f5b1b8208d484e4b7e173.jpg",
+      "width": 735,
+      "height": 920,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 73.16,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g40-40e3f69a6d8f5b1b8208d484e4b7e173-w640.avif",
+          "735": "/gallery/g40-40e3f69a6d8f5b1b8208d484e4b7e173-w735.avif"
+        },
+        "webp": {
+          "640": "/gallery/g40-40e3f69a6d8f5b1b8208d484e4b7e173-w640.webp",
+          "735": "/gallery/g40-40e3f69a6d8f5b1b8208d484e4b7e173-w735.webp"
+        }
+      },
+      "srcWebp": "/gallery/g40-40e3f69a6d8f5b1b8208d484e4b7e173-w735.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAwBQCdASoTABgAPzmOvlevKaYjqAqp4CcJbACw/f/gHU3eGCUudP2vDm9puxb49bfYAAD7dO4WAIvZiP72dXV9gHtUq1qi+L9fYiv5LzGAfGYHC6xuyzKpZ3kpA+1yfrh12suuDv4czrUg7bmdL90phbhwBkXfd8GF7EOC3RAg/F83QPR7TL3YIBEQffOsA/kDzuJ9oowfFMd0X6WBBNetQGV3HtqIXbycvxrY1OPTkES1rv2VbQgmllKPvPZli36xs/zwWG9lAAAA",
+      "hero": false
+    },
+    {
+      "id": "g68-img-20240627-wa0036",
+      "file": "IMG-20240627-WA0036.jpg",
+      "width": 1280,
+      "height": 960,
+      "alt": "Night wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 72.93,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g68-img-20240627-wa0036-w640.avif",
+          "1280": "/gallery/g68-img-20240627-wa0036-w1280.avif"
+        },
+        "webp": {
+          "640": "/gallery/g68-img-20240627-wa0036-w640.webp",
+          "1280": "/gallery/g68-img-20240627-wa0036-w1280.webp"
+        }
+      },
+      "srcWebp": "/gallery/g68-img-20240627-wa0036-w1280.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYABIAPzmSu1ivKiWjqAqp4CcJagC3uA9GSLv0quSayFCFmh5AAP7jUY53WGqjRZR5zECjCDQoVyAasjCxecuSNmI43pNY/jtME47e7Rpvzk8X9PafFzhagFEqEV/Kj9y3YiYhOpJQhKQyXu1lL8wee2NuNUjwBH/E8r59hwsfRYGXwB5bLcos2CV7u51pZEAAAA==",
+      "hero": true
+    },
+    {
+      "id": "g56-gmb1",
+      "file": "gmb1.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 71.59,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g56-gmb1-w640.avif",
+          "900": "/gallery/g56-gmb1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g56-gmb1-w640.webp",
+          "900": "/gallery/g56-gmb1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g56-gmb1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwBACdASoYABAAPzmEuVOvKKWisAgB4CcJYwC+SYxshXC5R78Oy+p/19xWAAD+jys2F36g+9lQOOBp+b6x7T1tjpMVE7olRedJZq1o/PlK8RTsbGw+YJCpqZPY6mBw3Ngk1AVfN/gJRZvPg1pitQoNDItBybRGx51aKBx/uNuxGaIfwC1ImbEv6d/V28lk9N94FH2D5YKqSpCveAA=",
+      "hero": true
+    },
+    {
+      "id": "g49-9-sm327008-1",
+      "file": "9-SM327008 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 71.59,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g49-9-sm327008-1-w640.avif",
+          "900": "/gallery/g49-9-sm327008-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g49-9-sm327008-1-w640.webp",
+          "900": "/gallery/g49-9-sm327008-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g49-9-sm327008-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwBACdASoYABAAPzmEuVOvKKWisAgB4CcJYwC+SYxshXC5R78Oy+p/19xWAAD+jys2F36g+9lQOOBp+b6x7T1tjpMVE7olRedJZq1o/PlK8RTsbGw+YJCpqZPY6mBw3Ngk1AVfN/gJRZvPg1pitQoNDItBybRGx51aKBx/uNuxGaIfwC1ImbEv6d/V28lk9N94FH2D5YKqSpCveAA=",
+      "hero": false
+    },
+    {
+      "id": "g61-gmb3",
+      "file": "gmb3.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 71.54,
+      "night": false,
+      "src": {
+        "avif": {
+          "600": "/gallery/g61-gmb3-w600.avif"
+        },
+        "webp": {
+          "600": "/gallery/g61-gmb3-w600.webp"
+        }
+      },
+      "srcWebp": "/gallery/g61-gmb3-w600.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASoYABgAPzmUwFmvKiajqAgB4CcJbACdMoR/+AurnxPjBHF3PuYkTQ5lVgqcngAAAP7D4MomljXauV5nSpC++DvecTatd2FHwkaUz38NvCsbaWOXBkZU8BP2w9c8uoWQhS7r9tjMI4BPdeLSTem40zgg7besVS7pOnCIaUztaz+KzIY9SunD21F/pr2iNkWkf9zr95IKzV8m9aeSKKuMvSxPOkSMJBCug8mtdNOGTVBL/SCUhrGm8BLa6y9GKYAA",
+      "hero": true
+    },
+    {
+      "id": "g07-1-sm447606-1",
+      "file": "1-SM447606 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 71.43,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g07-1-sm447606-1-w640.avif",
+          "900": "/gallery/g07-1-sm447606-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g07-1-sm447606-1-w640.webp",
+          "900": "/gallery/g07-1-sm447606-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g07-1-sm447606-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACwBACdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoRwAdD1DxywHAVt0tHQLfkAAP507hZJ2XxkD1cK4/Bdn9NQNul9yZ1De4B7PF0neRrJElLMkD8e7SAVb6Ta5umRoNtrlrBVhM+Rd9SVvkwk6ogdIt9h+/XgJ8AIxIqjD7Qyx8AMOo8+F7HPPHHBCTb6ne57K3pbkrNEqzO8wfQ7epuARHdkNppPEDFOmEUYOisAAA==",
+      "hero": false
+    },
+    {
+      "id": "g09-11-sm216172-1",
+      "file": "11-SM216172 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Night wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 71.06,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g09-11-sm216172-1-w640.avif",
+          "900": "/gallery/g09-11-sm216172-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g09-11-sm216172-1-w640.webp",
+          "900": "/gallery/g09-11-sm216172-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g09-11-sm216172-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoYABAAPzmEuVOvKKWisAgB4CcJQBWABDd/jfWmXDa+ji0EgAD+42XjUtek/wwJ2iQkSmoPAQzJDkdlPMiOiypkxWyRCF8JEGMSP4KE+7XvGXtZ9veRTpHQGLlhoblHopUqzw3gvM+xnBY6WXJiV7VU0cdyRW6Ha2sjLpwlhBEUDM933KbIpfCHAiAAbYjgAAA=",
+      "hero": false
+    },
+    {
+      "id": "g47-79ffe0afe5a0f890cdd6d8ee1020846e",
+      "file": "79ffe0afe5a0f890cdd6d8ee1020846e.jpg",
+      "width": 1200,
+      "height": 900,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 70.76,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g47-79ffe0afe5a0f890cdd6d8ee1020846e-w640.avif",
+          "1200": "/gallery/g47-79ffe0afe5a0f890cdd6d8ee1020846e-w1200.avif"
+        },
+        "webp": {
+          "640": "/gallery/g47-79ffe0afe5a0f890cdd6d8ee1020846e-w640.webp",
+          "1200": "/gallery/g47-79ffe0afe5a0f890cdd6d8ee1020846e-w1200.webp"
+        }
+      },
+      "srcWebp": "/gallery/g47-79ffe0afe5a0f890cdd6d8ee1020846e-w1200.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoYABIAPzmMwVcvKSepqAqp4CcJQBadAjALG+c2t28aAPIHxlpuRn8f9/P1IWQVsAe/XtZwRsWKbQxxdRz+aI3B/uCZkfryhBSLnNz4KTlFQIzNmdfWIOWL6OiiwLmgAAA=",
+      "hero": true
+    },
+    {
+      "id": "g54-fc6c7876e19faaf14dbead9522580e45",
+      "file": "fc6c7876e19faaf14dbead9522580e45.jpg",
+      "width": 736,
+      "height": 981,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 70.03,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g54-fc6c7876e19faaf14dbead9522580e45-w640.avif",
+          "736": "/gallery/g54-fc6c7876e19faaf14dbead9522580e45-w736.avif"
+        },
+        "webp": {
+          "640": "/gallery/g54-fc6c7876e19faaf14dbead9522580e45-w640.webp",
+          "736": "/gallery/g54-fc6c7876e19faaf14dbead9522580e45-w736.webp"
+        }
+      },
+      "srcWebp": "/gallery/g54-fc6c7876e19faaf14dbead9522580e45-w736.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBQCdASoSABgAPzmSu1gvKiWjqAqp4CcJZQDE2BDvG/xCtO3szWG0SizWQlV8TpWcAEAA/M1/KpsC+/XJeroCHOPfpQ1hMVp7T4z/u3JBcEooi7vrGmo8dxowANPUTcTXct386I7P04/6hu6Rh5JSIwcKh2xMIrhMb8QsGgXgboOcR+5QVCYNxqjNyuRFj2OXOmafdMga7c+qOZgBy2wAAAA=",
+      "hero": false
+    },
+    {
+      "id": "g35-3-sm473458",
+      "file": "3-SM473458.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 69.99,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g35-3-sm473458-w640.avif",
+          "900": "/gallery/g35-3-sm473458-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g35-3-sm473458-w640.webp",
+          "900": "/gallery/g35-3-sm473458-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g35-3-sm473458-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoYABAAPzmGuVOvKSWisAgB4CcJYgCdAYxEmyAGcqVQ9HhbN7AA/tA5RCsG7QYhkTmIj5iKvIKvp6RNARPHovsNJGEVBHzFMmEtinWuR3Ybz+j128bTsJXTtnJkPEV4LntPgOkEsz1FXkvjjet+nS50UEuDbsFAbM5qlqfko2wmTsPtn6vbRoxm0AA=",
+      "hero": false
+    },
+    {
+      "id": "g22-18-sm217160",
+      "file": "18-SM217160.jpg",
+      "width": 600,
+      "height": 900,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 67.66,
+      "night": false,
+      "src": {
+        "avif": {
+          "600": "/gallery/g22-18-sm217160-w600.avif"
+        },
+        "webp": {
+          "600": "/gallery/g22-18-sm217160-w600.webp"
+        }
+      },
+      "srcWebp": "/gallery/g22-18-sm217160-w600.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAwCdASoQABgAPzmGuVOvKSWisAgB4CcJbACsMoACLG+GeCBaBMbAAMyeP9ys/E0qa+Ec/k6BTq6oR+ttzebBvcoyZtENzukFoXF2pno+ccJECPv9XgxAsBgC2eHmtcUL4bbzvF5FAZJxoz7odfpWk65SFMybXowOlyzo3A25uYkAAAA=",
+      "hero": false
+    },
+    {
+      "id": "g71-img-20240627-wa0039",
+      "file": "IMG-20240627-WA0039.jpg",
+      "width": 1080,
+      "height": 810,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 67.21,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g71-img-20240627-wa0039-w640.avif",
+          "1080": "/gallery/g71-img-20240627-wa0039-w1080.avif"
+        },
+        "webp": {
+          "640": "/gallery/g71-img-20240627-wa0039-w640.webp",
+          "1080": "/gallery/g71-img-20240627-wa0039-w1080.webp"
+        }
+      },
+      "srcWebp": "/gallery/g71-img-20240627-wa0039-w1080.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoYABIAPzmOwFcvKacuKAqp4CcJQBlAAjcoyQ+8Nxzr1a+lwAD+3+gZDWqpleJu1WmWDx1jJUWWnDysZyNKxUvMHhmlWIgDe1m3bl8ESqQk8+CIbi32Jv2cI36xsCLPTaaba45pkWDpQEn0nqG105j2kAAAAA==",
+      "hero": true
+    },
+    {
+      "id": "g58-gmb11",
+      "file": "gmb11.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 66.95,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g58-gmb11-w640.avif",
+          "900": "/gallery/g58-gmb11-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g58-gmb11-w640.webp",
+          "900": "/gallery/g58-gmb11-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g58-gmb11-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQAwCdASoYABAAPzmEuVOvKKWisAgB4CcJbACdLwArgBZ1wqZi6rwA/mTK3XoBzbM24QI/OPau9lY7cUluzqPYi5PiphjF4szAilUh1huS1SJlUROvz350T4tWSTBfXkXzqhQCJijNTaMpvdS5K2inGOVTXae20gaN9nn5qAN85UNF73o9U4N9MYgjRqnqjRItVSK+TQkWiIuGP73JoU4gAAA=",
+      "hero": false
+    },
+    {
+      "id": "g18-17-sm246215",
+      "file": "17-SM246215.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 66.12,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g18-17-sm246215-w640.avif",
+          "900": "/gallery/g18-17-sm246215-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g18-17-sm246215-w640.webp",
+          "900": "/gallery/g18-17-sm246215-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g18-17-sm246215-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJbACdMoACOpU9C8YviADOI1Ep6ybClYZKpDSAtlIQglC5x6DKNisW8Aqy/KUE4LXZHnkY+ddvRJ0NIXqhAIEhN5NHJ4QxxRJbyrUWU+U7QkuRUuE/16p4C8S2RI8OJt6mnEexthtlaMHIaQmdE9AUhOyi/j3/xOySAAAA",
+      "hero": false
+    },
+    {
+      "id": "g11-120-sm644720",
+      "file": "120-SM644720.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 66.08,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g11-120-sm644720-w640.avif",
+          "900": "/gallery/g11-120-sm644720-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g11-120-sm644720-w640.webp",
+          "900": "/gallery/g11-120-sm644720-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g11-120-sm644720-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoYABAAPzmEuVOvKKWisAgB4CcJZAC06YvqzmJ6v+zvIgtgzWSAAP5k05KYwXRJv0Gk6l4z3+mHUootWr+WqovqJS7PmwFNPRT53yhldLQogM09NuxFOm2zObP7PWDZeIni7lDQz/B1w+Nlhl03xqu9Frj+392+/lFFut4pPWDC4y9YwEcaaIGT357GcLFhAAA=",
+      "hero": false
+    },
+    {
+      "id": "g29-20-sm447504-1",
+      "file": "20-SM447504 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 66.06,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g29-20-sm447504-1-w640.avif",
+          "900": "/gallery/g29-20-sm447504-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g29-20-sm447504-1-w640.webp",
+          "900": "/gallery/g29-20-sm447504-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g29-20-sm447504-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdMoGv/jeBcIq59I0nhHPHnmv8AAD+xYHYnySS+FDmktXZnEC1QOYRlSMBADMluwc+BqitG1ss5jEq7AvtLSbZJLmnuAoskKdYy2LWLdYV6mMTF3woU6jNKA4CEproBL06aw4+ayW7Jh+plSvKjukgEEZNjCnLjBHCr+I3oflQjNQhlKU8UJRRAAAA",
+      "hero": false
+    },
+    {
+      "id": "g44-655e1d4b4dbf72a2f5f28e1b6948e383",
+      "file": "655e1d4b4dbf72a2f5f28e1b6948e383.jpg",
+      "width": 736,
+      "height": 981,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 65.58,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g44-655e1d4b4dbf72a2f5f28e1b6948e383-w640.avif",
+          "736": "/gallery/g44-655e1d4b4dbf72a2f5f28e1b6948e383-w736.avif"
+        },
+        "webp": {
+          "640": "/gallery/g44-655e1d4b4dbf72a2f5f28e1b6948e383-w640.webp",
+          "736": "/gallery/g44-655e1d4b4dbf72a2f5f28e1b6948e383-w736.webp"
+        }
+      },
+      "srcWebp": "/gallery/g44-655e1d4b4dbf72a2f5f28e1b6948e383-w736.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBQCdASoSABgAPzmUwFmvKaajqAgB4CcJZACw7AzheUo4Im/HRmsXxqF9e9SrDD2IAAD9PJmwa/J5NyLsSbz2YB8GSQCmuDxa5TtM+KMEjM5xPHKV5UgUpBpNqvWUeAvgR5QJvVZdRBjdt5UjkIpRkROpaGocFGLmIMi6lj0JWGFz3e6dAcUbqv9Yr4F3T14o65zTqP6wKx8edCeLEsJvUlQEfqhI8ZfutP1Sdway4AAA",
+      "hero": false
+    },
+    {
+      "id": "g21-17-sm901761",
+      "file": "17-SM901761.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 65.14,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g21-17-sm901761-w640.avif",
+          "900": "/gallery/g21-17-sm901761-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g21-17-sm901761-w640.webp",
+          "900": "/gallery/g21-17-sm901761-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g21-17-sm901761-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBACdASoYABAAPzmEuVOvKKWisAgB4CcJZACsMjcAsiU5tpv0i6P4j40MMCAA/o3NH4u9TpA2pdK5JjTWGjZf6sdxwjdgJIV9M2PewdW+fogsqpRGQrgGDv+F9AsyiH2wAb4fjWzEyeQe5/MFNSnC9p1Rr/IvT1ZVGlQje/68FpFp3tscAD91/g2/WCFcNoJ/7o73Or6niAAA",
+      "hero": false
+    },
+    {
+      "id": "g34-3-sm327004-1",
+      "file": "3-SM327004 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 65.01,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g34-3-sm327004-1-w640.avif",
+          "900": "/gallery/g34-3-sm327004-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g34-3-sm327004-1-w640.webp",
+          "900": "/gallery/g34-3-sm327004-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g34-3-sm327004-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAwCdASoYABAAPzmEuVOvKKWisAgB4CcJYwAAMqyoo9SzxW/4AP5X5K47gnnm2EXQgM4Js0RplS/mTsUtE0PFbccbytBcbMVu5kPj/4yQzUnpZiPs3FzQFkebiwxg6q5c72Ohe3ngdiKvhD/dyqIfmttJ5EtMqfThLQC4JNBBca5OfbJAavTdyQAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g43-63261bc2348c8ec457aad3cbcbeaea16",
+      "file": "63261bc2348c8ec457aad3cbcbeaea16.jpg",
+      "width": 960,
+      "height": 1280,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 64.14,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g43-63261bc2348c8ec457aad3cbcbeaea16-w640.avif",
+          "960": "/gallery/g43-63261bc2348c8ec457aad3cbcbeaea16-w960.avif"
+        },
+        "webp": {
+          "640": "/gallery/g43-63261bc2348c8ec457aad3cbcbeaea16-w640.webp",
+          "960": "/gallery/g43-63261bc2348c8ec457aad3cbcbeaea16-w960.webp"
+        }
+      },
+      "srcWebp": "/gallery/g43-63261bc2348c8ec457aad3cbcbeaea16-w960.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBACdASoSABgAPzmQu1gvKaWjqAqp4CcJZgC7L8CAsUtk9hx53oJuH9xr01Q5ReAA/jrCDr4BfGCzjLI1ZQtFpVJl3Scm3IGNhnZkFAru4MbvHHwUrGtVMrddY6mwJpAWMykPSxJV8P27UqsrCmBzBVPKeFByZtaCzhBH1DBWTLfiFhNByHeBAoCyqGmPMOQ28mH9E6iP9+Ejdngx2YlZcL2FwYv2eP1YAA==",
+      "hero": false
+    },
+    {
+      "id": "g74-videoframe-5761",
+      "file": "videoframe_5761.png",
+      "width": 720,
+      "height": 1280,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 63.92,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g74-videoframe-5761-w640.avif",
+          "720": "/gallery/g74-videoframe-5761-w720.avif"
+        },
+        "webp": {
+          "640": "/gallery/g74-videoframe-5761-w640.webp",
+          "720": "/gallery/g74-videoframe-5761-w720.webp"
+        }
+      },
+      "srcWebp": "/gallery/g74-videoframe-5761-w720.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoOABgAPzmEuVOvKKWisAgB4CcJQBOgA+4jLpIIQf/yMneAAMi21ec3l8tD7vBTo8yA5953lGjsiYyox5/kphBRhxKI9b+mbvQQ5TotTCkBBwTbX6wzxdm7gkMxFLNZwb6ni4wCMgAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g23-18-sm725979",
+      "file": "18-SM725979.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 63.84,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g23-18-sm725979-w640.avif",
+          "900": "/gallery/g23-18-sm725979-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g23-18-sm725979-w640.webp",
+          "900": "/gallery/g23-18-sm725979-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g23-18-sm725979-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACQBACdASoYABAAPzmEuVOvKKWisAgB4CcJagCdEf/gOf66K8gdDefF+ZZHSoAA/GUqnhL0UBOi4Mc9jKjgTF96NAu0+rLO+JdZzp2SSZvR41UAZmVyPvyBKyc57sFavIKDjLkYCZgWBTm5anmwjHauZi7XpGaMjErYfdEhF4jFmil7Vumw92kwO6lOIukUBuCkCGAtXYfkA5Q4XB94d8mOQAA=",
+      "hero": false
+    },
+    {
+      "id": "g12-120-sm644741",
+      "file": "120-SM644741.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 63.71,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g12-120-sm644741-w640.avif",
+          "900": "/gallery/g12-120-sm644741-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g12-120-sm644741-w640.webp",
+          "900": "/gallery/g12-120-sm644741-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g12-120-sm644741-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJaACdAA/oKTiz9tHPEAD47em84lBgOU+J9sdYCdDvCE4nDLiv9MKMt9Dsy6kmNeiafvqjj5jnvloiwvKWD+Q1Yv9eTbNLGsNWWYEPpNQ5acV0qIWHtu04n/669CdA2Sege4izJnLA7s2/dFsOCRjCzEg7IAAA",
+      "hero": false
+    },
+    {
+      "id": "g16-16-sm447577-1",
+      "file": "16-SM447577 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 63.63,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g16-16-sm447577-1-w640.avif",
+          "900": "/gallery/g16-16-sm447577-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g16-16-sm447577-1-w640.webp",
+          "900": "/gallery/g16-16-sm447577-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g16-16-sm447577-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBQCdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoRwFf/l2CLtGCRPD8j8l8nkCeVZ0AD98CHoKiUD8opBFSusqVKTNLcaCpR3171Z+qEJMzX4cNumtfnwv7IBg4wbOV67CXNTCKEqPM4ClmflqLQs10WGOdp14FfagernqJ0ekazA09PYn1z+Q4wJxAtVpMr07pa9YRMyfzai+BPFLC/4bHHks8Vgf4uP8zFpPuMHrLYA",
+      "hero": false
+    },
+    {
+      "id": "g24-19-sm447579-1",
+      "file": "19-SM447579 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 63.22,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g24-19-sm447579-1-w640.avif",
+          "900": "/gallery/g24-19-sm447579-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g24-19-sm447579-1-w640.webp",
+          "900": "/gallery/g24-19-sm447579-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g24-19-sm447579-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdEf/i2LGa94lDikSmIpL6B0AA/rGp+6lnk1HJLLUVqjPGiSjo5uU1UcC/tlrKNHzIi8k0xBwHrg6phdL/oBh4s7RA48s9YQ1qKPo3ExddtCKHgtnaXRrE5U3+O8+FhB+symnINoZ3i/9RFidVvnetSukFhr584702xjw+D1W0WWd/7ktuKx24l/RyBLHv3gHGSR05/KSoAAA=",
+      "hero": false
+    },
+    {
+      "id": "g30-20622eb7168cee7815316bad65a072d9",
+      "file": "20622eb7168cee7815316bad65a072d9.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 63,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g30-20622eb7168cee7815316bad65a072d9-w640.avif",
+          "1200": "/gallery/g30-20622eb7168cee7815316bad65a072d9-w1200.avif"
+        },
+        "webp": {
+          "640": "/gallery/g30-20622eb7168cee7815316bad65a072d9-w640.webp",
+          "1200": "/gallery/g30-20622eb7168cee7815316bad65a072d9-w1200.webp"
+        }
+      },
+      "srcWebp": "/gallery/g30-20622eb7168cee7815316bad65a072d9-w1200.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoYABAAPzmEuVOvKKWisAgB4CcJaACdB3gAQZWvn+afSQl4AAD5RqMH1cAQixjsHtunYRuLdhim0k3ZHun13g3X6imEFUTR/MeeYR7pRIu9kZ3u0ZeNGgbV8gonGNkKVVEWjQ84w27rIxlfakPsjKrR6cCIHpgEBYvqxHMSAAA=",
+      "hero": false
+    },
+    {
+      "id": "g60-gmb2",
+      "file": "gmb2.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 62.94,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g60-gmb2-w640.avif",
+          "900": "/gallery/g60-gmb2-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g60-gmb2-w640.webp",
+          "900": "/gallery/g60-gmb2-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g60-gmb2-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAADwBACdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoRwAdFg+/nb/qaQk8xI4IKgHAAA/etaGDqpVmrGOBE0SNFnvbZ0Z1JGcRenC8H4ILcjfy5GmfF97xi/jxI9NQpaKsJd/34Sw+mbhzBmwHBO0bvcS+yjQAKmaW/5l3oq/8BAih2oxMRWZVWLdQtfmLqdDgBy2eJrZDZGaJ9YGt2PGM/9QSfp12VxI7FCquAA",
+      "hero": false
+    },
+    {
+      "id": "g39-3ac5b94aecec9cc9545eb18735fcd0fd",
+      "file": "3ac5b94aecec9cc9545eb18735fcd0fd.jpg",
+      "width": 1199,
+      "height": 799,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 62.71,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g39-3ac5b94aecec9cc9545eb18735fcd0fd-w640.avif",
+          "1199": "/gallery/g39-3ac5b94aecec9cc9545eb18735fcd0fd-w1199.avif"
+        },
+        "webp": {
+          "640": "/gallery/g39-3ac5b94aecec9cc9545eb18735fcd0fd-w640.webp",
+          "1199": "/gallery/g39-3ac5b94aecec9cc9545eb18735fcd0fd-w1199.webp"
+        }
+      },
+      "srcWebp": "/gallery/g39-3ac5b94aecec9cc9545eb18735fcd0fd-w1199.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACwBACdASoYABAAPzmEuVOvKKWisAgB4CcJZACdIDa4ABkBkFD+mmZ+gdBc/EwAAM1I0g95aicauNnFdbL89ovMDm/Qb8RxTuzfRLavnak84jYwmP6Xjc0AQXfh5JBnPK2Y97ymZlcUQs1DLUBaE0HZEbePFkk4iBgAWsISmBlj3/fSCMUhs0wA5B7iEopplYAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g42-5a9c8d78489a0a5ba184847f6de51cd6",
+      "file": "5a9c8d78489a0a5ba184847f6de51cd6.jpg",
+      "width": 720,
+      "height": 898,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 62.63,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g42-5a9c8d78489a0a5ba184847f6de51cd6-w640.avif",
+          "720": "/gallery/g42-5a9c8d78489a0a5ba184847f6de51cd6-w720.avif"
+        },
+        "webp": {
+          "640": "/gallery/g42-5a9c8d78489a0a5ba184847f6de51cd6-w640.webp",
+          "720": "/gallery/g42-5a9c8d78489a0a5ba184847f6de51cd6-w720.webp"
+        }
+      },
+      "srcWebp": "/gallery/g42-5a9c8d78489a0a5ba184847f6de51cd6-w720.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBACdASoTABgAPzmSu1gvKiWjqAqp4CcJYgCdAAm1npEu5T6y26YGEt50mJO2dNwA/lR5EWopmVf70+Af2XBajiAOdUPHY72msIuIMVrHFAZz1EHZFFhJVjCOsPcg2LvimhxdY1cpBWbRDVU51trU5jyH3BySZ/DAziXX4wUSeI6PH7o2YMXQks8UFbKx3fReBHVjz/TkZaXMnbW3YY1TpWiG69D5lnkAAA==",
+      "hero": false
+    },
+    {
+      "id": "g25-19-sm644718",
+      "file": "19-SM644718.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 62.31,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g25-19-sm644718-w640.avif",
+          "900": "/gallery/g25-19-sm644718-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g25-19-sm644718-w640.webp",
+          "900": "/gallery/g25-19-sm644718-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g25-19-sm644718-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJaAC06Bc7qu3a4B3HCspgAP6XltQ15LjnwTqg53t1vR6USoSYyfOEW3NLKPvzssEUHHMJb7dWwus4EWc6qb57JQ/X95ubZQo6RvGaR0v+s3a7kxei4oJvKf+oiX18WXL0obCuC9lPSYCwpZnpvSGAHNqn5nJa6p4aqJpHWToAcQAA",
+      "hero": false
+    },
+    {
+      "id": "g19-17-sm642266",
+      "file": "17-SM642266.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 62.08,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g19-17-sm642266-w640.avif",
+          "900": "/gallery/g19-17-sm642266-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g19-17-sm642266-w640.webp",
+          "900": "/gallery/g19-17-sm642266-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g19-17-sm642266-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADQAwCdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoABoZNM/HmAdjAA/fmLqouBZsfCGyxanb6exnAF6YyOoget3kocJDyK4Nfxq36S6+bDHF1LX6Vst4avT5TTr4XGei1bBSTHt2rUShJyDLExxOnylY3IZw0utLZ/JNIkuS5FoqHNmJldBR5jwCKJMAAA",
+      "hero": false
+    },
+    {
+      "id": "g14-14-sm216176-1",
+      "file": "14-SM216176 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Night wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 61.84,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g14-14-sm216176-1-w640.avif",
+          "900": "/gallery/g14-14-sm216176-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g14-14-sm216176-1-w640.webp",
+          "900": "/gallery/g14-14-sm216176-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g14-14-sm216176-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBACdASoYABAAPzmEuVOvKKWisAgB4CcJaACdMoBOABXpgtXsDSyV1sAAAP7o5yawiH+JqR56rqSpAJwHs6kgP8pkGXR+uvhFcyxhkJ5/rQF0TEq5t9ArdfhdX8coiUKDfTZgGIrdIT2LpU096GGfkY/m6H4Mci4XhbiHvgfFgsuQXxoBGc+NPlFo0swmfSRo5owA",
+      "hero": false
+    },
+    {
+      "id": "g33-25ad3d36e8a2ab6381d490df6f25c27b",
+      "file": "25ad3d36e8a2ab6381d490df6f25c27b.jpg",
+      "width": 736,
+      "height": 736,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 61.1,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g33-25ad3d36e8a2ab6381d490df6f25c27b-w640.avif",
+          "736": "/gallery/g33-25ad3d36e8a2ab6381d490df6f25c27b-w736.avif"
+        },
+        "webp": {
+          "640": "/gallery/g33-25ad3d36e8a2ab6381d490df6f25c27b-w640.webp",
+          "736": "/gallery/g33-25ad3d36e8a2ab6381d490df6f25c27b-w736.webp"
+        }
+      },
+      "srcWebp": "/gallery/g33-25ad3d36e8a2ab6381d490df6f25c27b-w736.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBQCdASoYABgAPzmUwVmvKicjqAgB4CcJZACo9Yy8UYUxKiBHDfOn0J58lhvreUpEnuQrEAD82ukEezfWKowa6jpL+VDq3WSqGptgeKirL+PFhjImPRpmooo9w3HGxV7poS2KJvCdQOf9ysVSGpSgR7rw9AcE+kFqKuRPimRZEFNUEj26/IYZdWhRNC+kaQCsPC+ZtuJ00gUs+ZyfzkynPAy3hzC0KW8ngIL0IpvFqgkjZlLnEv9pmtAxbvAA",
+      "hero": false
+    },
+    {
+      "id": "g52-dea0166c26c6024890f7fcae17c3a7fb",
+      "file": "dea0166c26c6024890f7fcae17c3a7fb.jpg",
+      "width": 735,
+      "height": 976,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 60.38,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g52-dea0166c26c6024890f7fcae17c3a7fb-w640.avif",
+          "735": "/gallery/g52-dea0166c26c6024890f7fcae17c3a7fb-w735.avif"
+        },
+        "webp": {
+          "640": "/gallery/g52-dea0166c26c6024890f7fcae17c3a7fb-w640.webp",
+          "735": "/gallery/g52-dea0166c26c6024890f7fcae17c3a7fb-w735.webp"
+        }
+      },
+      "srcWebp": "/gallery/g52-dea0166c26c6024890f7fcae17c3a7fb-w735.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAQBQCdASoSABgAPzmSv1mvKaajqAgB4CcJaACsMoABKb1zgSqJvBeXmtwYiwtZ0PAAAP5kL+UUsmZsNDGsU/pKz6BYofPhXqB3usDsmX4L8bci7Fbk9GAyLEZTotrUsETYErtYKQRZ6SOqD4CeMJECO0AcsXMdgH1MB6HemE+4N1PUXR43bOm7d7ChjZQwgbFuzq5LHuA/IPfc3QyB62EVTawmxFZSM3kK2yqhHY3QCATgnDhjaAAA",
+      "hero": false
+    },
+    {
+      "id": "g51-d39cf0f860fc60eca427ebdaf1275fdf",
+      "file": "d39cf0f860fc60eca427ebdaf1275fdf.jpg",
+      "width": 676,
+      "height": 1200,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 60.32,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g51-d39cf0f860fc60eca427ebdaf1275fdf-w640.avif",
+          "676": "/gallery/g51-d39cf0f860fc60eca427ebdaf1275fdf-w676.avif"
+        },
+        "webp": {
+          "640": "/gallery/g51-d39cf0f860fc60eca427ebdaf1275fdf-w640.webp",
+          "676": "/gallery/g51-d39cf0f860fc60eca427ebdaf1275fdf-w676.webp"
+        }
+      },
+      "srcWebp": "/gallery/g51-d39cf0f860fc60eca427ebdaf1275fdf-w676.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoNABgAPzmIuVQvKSWjMAgB4CcJagC7MoAB5NmmVwcEGAAAyeFI5TpIJspMY0T2/Zn0u8SOydO0Hc/IsMHGgVFRBWF5hRjCw8BiY52K3Buixod3iNM1SPmk+W7Zak3RqSWzYFMUYrhyAF2CbTTloAvCf/xxljORK+POCAAA",
+      "hero": false
+    },
+    {
+      "id": "g20-17-sm644716",
+      "file": "17-SM644716.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 59.93,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g20-17-sm644716-w640.avif",
+          "900": "/gallery/g20-17-sm644716-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g20-17-sm644716-w640.webp",
+          "900": "/gallery/g20-17-sm644716-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g20-17-sm644716-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACsBagBGYAg0fci138jeIAA/pYj4eEwIdnvafeFVWhjLgbUvFVLbEArk0aFr3uJAO0GOVnBsSONwK6e062VSNB6LI1GKRj6ZhmxCDB8x6JCX8iT0e1VXPGatZ1K+WoR8wl68NYM+S+XnZIDj+GvcvDxluoLFFH0sSx/5XqSC4aSnIcfnSEesQ4gAA==",
+      "hero": false
+    },
+    {
+      "id": "g27-20-sm216178-1",
+      "file": "20-SM216178 (1).jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Night wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 59.35,
+      "night": true,
+      "src": {
+        "avif": {
+          "640": "/gallery/g27-20-sm216178-1-w640.avif",
+          "900": "/gallery/g27-20-sm216178-1-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g27-20-sm216178-1-w640.webp",
+          "900": "/gallery/g27-20-sm216178-1-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g27-20-sm216178-1-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAwCdASoYABAAPzmGuVOvKSWisAgB4CcJbACdMoBOAB2ku9yQP1tAAP7aowXUCUG7NOeAUzruwucDtPziUhUal7kJLnf+l+GigLb3eTh24qqVJ/AFdyuBJMIFproUT8q6sSvURblobanQS4mx4EJZPYdxA1NR/wRIumjR7SSyZYOdP3mRyAlCeAA=",
+      "hero": false
+    },
+    {
+      "id": "g55-ff07663edd84e545b2d69e46ced20563",
+      "file": "ff07663edd84e545b2d69e46ced20563.jpg",
+      "width": 826,
+      "height": 826,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 59.17,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g55-ff07663edd84e545b2d69e46ced20563-w640.avif",
+          "826": "/gallery/g55-ff07663edd84e545b2d69e46ced20563-w826.avif"
+        },
+        "webp": {
+          "640": "/gallery/g55-ff07663edd84e545b2d69e46ced20563-w640.webp",
+          "826": "/gallery/g55-ff07663edd84e545b2d69e46ced20563-w826.webp"
+        }
+      },
+      "srcWebp": "/gallery/g55-ff07663edd84e545b2d69e46ced20563-w826.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACwBACdASoYABgAPzmOuVavKaUjqA1R4CcJQBihcdghX+V+wj61DBgSbvFzSAAAAP40U8wDbu5k+NsY5INsTjITH2rjOyM27As16Ef6NV3W7r9T35xy34qq0cNcnuQQ+vYX+2rFNsuFGoycU6pxRX+7aeeJuLQqXFwt4s4N1r++oede3uD5h4WbeAA=",
+      "hero": false
+    },
+    {
+      "id": "g53-eeafb70a68479bc1a8d6a6542cd76067",
+      "file": "eeafb70a68479bc1a8d6a6542cd76067.jpg",
+      "width": 1199,
+      "height": 799,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 58.22,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g53-eeafb70a68479bc1a8d6a6542cd76067-w640.avif",
+          "1199": "/gallery/g53-eeafb70a68479bc1a8d6a6542cd76067-w1199.avif"
+        },
+        "webp": {
+          "640": "/gallery/g53-eeafb70a68479bc1a8d6a6542cd76067-w640.webp",
+          "1199": "/gallery/g53-eeafb70a68479bc1a8d6a6542cd76067-w1199.webp"
+        }
+      },
+      "srcWebp": "/gallery/g53-eeafb70a68479bc1a8d6a6542cd76067-w1199.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoYABAAPzmEuVOvKKWisAgB4CcJbACdABRlzqX6rNpuEC8AAP3T3zbB9Eh+3qQ8JLz1Bm6EwvjEGvYVwrB0dsPsnjHpacem5NzGuuFqPoUPYZYnfupwGLh63FqQeghi/6odTR2iidYLsftpVpmWuje7gAA=",
+      "hero": false
+    },
+    {
+      "id": "g17-17-er1010885",
+      "file": "17-ER1010885.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 55.96,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g17-17-er1010885-w640.avif",
+          "900": "/gallery/g17-17-er1010885-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g17-17-er1010885-w640.webp",
+          "900": "/gallery/g17-17-er1010885-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g17-17-er1010885-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdMoADgwq7uj4a+DPTKcS0oADMTAG/Wek5cIuH8lhmReq8nJX0cK3WB4RsykID+HouYRRDRXXsE9kG6VMpvDCXA0Ers2r+a8YL2iz1sP547osh1z0Nylm0qgX41x9Nj+QjKWzT72BdWsQq9d6G16nXJU8hd/aV09F+wAA=",
+      "hero": false
+    },
+    {
+      "id": "g48-7d22172d7c3bd1f4f8f89b86f69019e3",
+      "file": "7d22172d7c3bd1f4f8f89b86f69019e3.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 54.73,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g48-7d22172d7c3bd1f4f8f89b86f69019e3-w640.avif",
+          "1200": "/gallery/g48-7d22172d7c3bd1f4f8f89b86f69019e3-w1200.avif"
+        },
+        "webp": {
+          "640": "/gallery/g48-7d22172d7c3bd1f4f8f89b86f69019e3-w640.webp",
+          "1200": "/gallery/g48-7d22172d7c3bd1f4f8f89b86f69019e3-w1200.webp"
+        }
+      },
+      "srcWebp": "/gallery/g48-7d22172d7c3bd1f4f8f89b86f69019e3-w1200.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoYABAAPzmGuVOvKSWisAgB4CcJQBWABFD707Rf7+H/Dwl9/BAA/VEH4R5Jh61tstgzJtTXXPeAKQaSXiJ6zmPL1Gd5r3OlRlQT7m+GTDP9k5ED67H1E26DvzMoikXWS0VESRmDqZVn0EtIwaTwZIeOsDL7PQpafLbtcRLEUm9Z/W2lcXZRYAAA",
+      "hero": false
+    },
+    {
+      "id": "g01-04edbec496130dc29e9e4ed0b806afba",
+      "file": "04edbec496130dc29e9e4ed0b806afba.jpg",
+      "width": 800,
+      "height": 600,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 53.98,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g01-04edbec496130dc29e9e4ed0b806afba-w640.avif",
+          "800": "/gallery/g01-04edbec496130dc29e9e4ed0b806afba-w800.avif"
+        },
+        "webp": {
+          "640": "/gallery/g01-04edbec496130dc29e9e4ed0b806afba-w640.webp",
+          "800": "/gallery/g01-04edbec496130dc29e9e4ed0b806afba-w800.webp"
+        }
+      },
+      "srcWebp": "/gallery/g01-04edbec496130dc29e9e4ed0b806afba-w800.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwBACdASoYABIAPzmSu1ivKiWjqAqp4CcJYwC7AA33AdHGZGeKftm35k6k82XWwIAA9phzgqo192PaztLagJf5qb4s7d1CIErWlfMsWAJ+SGhxrX4cf0cOco+Y7ktVZxL4GnYR8JAjnJE/Vuv5HajGLg66gdK2z6KwhI95fXFkO6+hz2qjTLgvZ3AAAA==",
+      "hero": false
+    },
+    {
+      "id": "g26-195d9ce4032a90c766e002a2aed48db5",
+      "file": "195d9ce4032a90c766e002a2aed48db5.jpg",
+      "width": 736,
+      "height": 1308,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 53.69,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g26-195d9ce4032a90c766e002a2aed48db5-w640.avif",
+          "736": "/gallery/g26-195d9ce4032a90c766e002a2aed48db5-w736.avif"
+        },
+        "webp": {
+          "640": "/gallery/g26-195d9ce4032a90c766e002a2aed48db5-w640.webp",
+          "736": "/gallery/g26-195d9ce4032a90c766e002a2aed48db5-w736.webp"
+        }
+      },
+      "srcWebp": "/gallery/g26-195d9ce4032a90c766e002a2aed48db5-w736.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAwCdASoOABgAPzmEuVOvKKWisAgB4CcJQBdgBH5o+Y7yfDSc1AAA/s1I7F24NCC6yiyGfREJ7UGiaC2r6wXqcOX+Hjss1KLWMdQCuKzQj73gre2saKSyzl7KXj6C/Jo3VwoBaTU30C9EnH/gAA==",
+      "hero": false
+    },
+    {
+      "id": "g62-gmb4",
+      "file": "gmb4.jpg",
+      "width": 765,
+      "height": 1020,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 53.56,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g62-gmb4-w640.avif",
+          "765": "/gallery/g62-gmb4-w765.avif"
+        },
+        "webp": {
+          "640": "/gallery/g62-gmb4-w640.webp",
+          "765": "/gallery/g62-gmb4-w765.webp"
+        }
+      },
+      "srcWebp": "/gallery/g62-gmb4-w765.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBQCdASoSABgAPzmUwFmvKiajqAgB4CcJZgCdMsp/2BwdkYcumFoDyF38MJizFnB81DAAzbjZ9Z2xgVXebMTV4sckFBkQf4c/Ga5Cc5Gxg+wCn/6NzNAMlvcFJ5FFlGfHXaoLKTNcbDtEAsMrTSqjsd87SN3VxUdwqTTDiAtcvKGVp+ms7XD/IfRYGqyrRNDXzhOBUv3Hq2oSgAAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g36-300-sm1072433",
+      "file": "300-SM1072433.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 52.31,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g36-300-sm1072433-w640.avif",
+          "900": "/gallery/g36-300-sm1072433-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g36-300-sm1072433-w640.webp",
+          "900": "/gallery/g36-300-sm1072433-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g36-300-sm1072433-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoYABAAPzmGuVOvKSWisAgB4CcJbACdABeUv2QRP8waaRGJMAD5HLt2UbsctM/Jtg5XbZHVjKwrSX4S8lmCmWqRaq7I78bSW5YrUgCtNpDhL1WkseZK5x1eUvFjNOg6I1wpVuPtKp7jjk/oGUAl4NBY2EBOTqCJ0E8HS+/J8ZBNKVhFROuWvQAA",
+      "hero": false
+    },
+    {
+      "id": "g41-49dd1b65fa9ef2c24a5a5138b1090194",
+      "file": "49dd1b65fa9ef2c24a5a5138b1090194.jpg",
+      "width": 1200,
+      "height": 583,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 49.94,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g41-49dd1b65fa9ef2c24a5a5138b1090194-w640.avif",
+          "1200": "/gallery/g41-49dd1b65fa9ef2c24a5a5138b1090194-w1200.avif"
+        },
+        "webp": {
+          "640": "/gallery/g41-49dd1b65fa9ef2c24a5a5138b1090194-w640.webp",
+          "1200": "/gallery/g41-49dd1b65fa9ef2c24a5a5138b1090194-w1200.webp"
+        }
+      },
+      "srcWebp": "/gallery/g41-49dd1b65fa9ef2c24a5a5138b1090194-w1200.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYAAwAPzmEuVOvKKWisAgB4CcJZgCdL1ABYt87qCFPN6aaGIAA/rtLgXavD2ZHDj7BH0uFR2n8jllqp7wBvN4nsJTkDtuoLMZ5YAp1oKy73Er2uBc+eqREAAA=",
+      "hero": false
+    },
+    {
+      "id": "g32-220-sm702876",
+      "file": "220-SM702876.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 48.92,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g32-220-sm702876-w640.avif",
+          "900": "/gallery/g32-220-sm702876-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g32-220-sm702876-w640.webp",
+          "900": "/gallery/g32-220-sm702876-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g32-220-sm702876-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBACdASoYABAAPzmGuVOvKSWisAgB4CcJbACdABANKQDDFH1Nsq0VgAD8pL0SbRXIzGbEA2GA+20CxYn76+u2TAIMSn5fbpcNj3R0VDt6BIfEhegv2sWmxXEH2Dfo9Vfja3a5DXsfbENOA/bJebEjIiT+20BNgNU4Cxtz+eC3h7AF9+7grIry8IuAVaBgxpJ9AAAA",
+      "hero": false
+    },
+    {
+      "id": "g57-gmb10",
+      "file": "gmb10.jpg",
+      "width": 1200,
+      "height": 900,
+      "alt": "Live food station and buffet counter by Shree Gajanan Caterers",
+      "category": "live",
+      "score": 48.46,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g57-gmb10-w640.avif",
+          "1200": "/gallery/g57-gmb10-w1200.avif"
+        },
+        "webp": {
+          "640": "/gallery/g57-gmb10-w640.webp",
+          "1200": "/gallery/g57-gmb10-w1200.webp"
+        }
+      },
+      "srcWebp": "/gallery/g57-gmb10-w1200.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBACdASoYABIAPzmOvlevKaYjqAqp4CcJQBf9gTfiuNsH5HWIm6jgJoQAyvEN7zx8PHEGdM8VJb9NR1uKgd68LXBm9b1yBCe1aHwEJbkxFcJBhggg8fm4V5vG6/yg22zkBdPOEm4fNySo6wk12q8JYDS8gnAAAAA=",
+      "hero": false
+    },
+    {
+      "id": "g73-videoframe-4156",
+      "file": "videoframe_4156.png",
+      "width": 720,
+      "height": 1280,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 48.14,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g73-videoframe-4156-w640.avif",
+          "720": "/gallery/g73-videoframe-4156-w720.avif"
+        },
+        "webp": {
+          "640": "/gallery/g73-videoframe-4156-w640.webp",
+          "720": "/gallery/g73-videoframe-4156-w720.webp"
+        }
+      },
+      "srcWebp": "/gallery/g73-videoframe-4156-w720.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoOABgAPzmEuVOvKKWisAgB4CcJbACdABc6HkJLtIACfAAA/qKrDyhllHU94C0nQeuHUUVos/MgIx8s/F/PGVbVaSim35JDEUx9B5twh7DXAAAA",
+      "hero": false
+    },
+    {
+      "id": "g37-300-sm1072449",
+      "file": "300-SM1072449.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 47.54,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g37-300-sm1072449-w640.avif",
+          "900": "/gallery/g37-300-sm1072449-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g37-300-sm1072449-w640.webp",
+          "900": "/gallery/g37-300-sm1072449-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g37-300-sm1072449-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABwBACdASoYABAAPzmEuVOvKKWisAgB4CcJbACdIIjDGlMPsW6Cq61fJ/fMAADzfyaW0u8Q6thv8drpvh6M6YRhsJx+wmJMXZzahMYcwOG1Isr3LEEINd30//loMaCAOPwdpErWkl4KnxzB1giXZaryq3pieIk4XXFfRaE5Hm5YTo8ZgxgGbErzzAAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g50-cf1a50528b13b3ca6bc11a401242e162",
+      "file": "cf1a50528b13b3ca6bc11a401242e162.jpg",
+      "width": 736,
+      "height": 1104,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 46.55,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g50-cf1a50528b13b3ca6bc11a401242e162-w640.avif",
+          "736": "/gallery/g50-cf1a50528b13b3ca6bc11a401242e162-w736.avif"
+        },
+        "webp": {
+          "640": "/gallery/g50-cf1a50528b13b3ca6bc11a401242e162-w640.webp",
+          "736": "/gallery/g50-cf1a50528b13b3ca6bc11a401242e162-w736.webp"
+        }
+      },
+      "srcWebp": "/gallery/g50-cf1a50528b13b3ca6bc11a401242e162-w736.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoQABgAPzmGulOvKKWisAgB4CcJbACdMoADTes0HT8OkbYoQAD+yxGyv+TyfUF2o25HE/a9QV+Nt2cGE1d7paIkqqL06FIsVkhJiCnN5S84jSL3gbeqVcdAcpXwUiCgaDC7rSq7C2ghS1S2aAAAAA==",
+      "hero": false
+    },
+    {
+      "id": "g69-img-20240627-wa0037",
+      "file": "IMG-20240627-WA0037.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 44.83,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g69-img-20240627-wa0037-w640.avif",
+          "900": "/gallery/g69-img-20240627-wa0037-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g69-img-20240627-wa0037-w640.webp",
+          "900": "/gallery/g69-img-20240627-wa0037-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g69-img-20240627-wa0037-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoYABAAPzmGuVOvKSWisAgB4CcJZACdACBg/YzWcFpwv5qQANNKF021pKDN6ynqCCwR84PNFswJL282xXnRXicbEXwf9QXcGifEJ6RBCi4MaIbvXJeLHSrAC+bdDS+mJN0sHUAA",
+      "hero": false
+    },
+    {
+      "id": "g46-788ba15b623dabe7d0f4a5a30c98e9d4",
+      "file": "788ba15b623dabe7d0f4a5a30c98e9d4.jpg",
+      "width": 736,
+      "height": 1104,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 43.94,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g46-788ba15b623dabe7d0f4a5a30c98e9d4-w640.avif",
+          "736": "/gallery/g46-788ba15b623dabe7d0f4a5a30c98e9d4-w736.avif"
+        },
+        "webp": {
+          "640": "/gallery/g46-788ba15b623dabe7d0f4a5a30c98e9d4-w640.webp",
+          "736": "/gallery/g46-788ba15b623dabe7d0f4a5a30c98e9d4-w736.webp"
+        }
+      },
+      "srcWebp": "/gallery/g46-788ba15b623dabe7d0f4a5a30c98e9d4-w736.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAwCdASoQABgAPzmGulOvKSWisAgB4CcJQAALerYPKbWAQ9aAAP7euu53R/GIEyeZI3gddR3zQvprVErvZUoGrUhiziCWsB1y4xbifdhwm7cJgKL9H4M6W3i0q/rInyLg5cOfImduWkDo4b7n+H9ncyyCvUBDwAA=",
+      "hero": false
+    },
+    {
+      "id": "g64-gmb6",
+      "file": "gmb6.jpg",
+      "width": 675,
+      "height": 1200,
+      "alt": "Vegetarian catering dishes prepared by Shree Gajanan Caterers",
+      "category": "food",
+      "score": 43.52,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g64-gmb6-w640.avif",
+          "675": "/gallery/g64-gmb6-w675.avif"
+        },
+        "webp": {
+          "640": "/gallery/g64-gmb6-w640.webp",
+          "675": "/gallery/g64-gmb6-w675.webp"
+        }
+      },
+      "srcWebp": "/gallery/g64-gmb6-w675.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAwCdASoNABgAPzmGuVOvKSWisAgB4CcJbACdMoR3ACnJ4EpVC1IAAPxTsu7wBKDOR2GJZnF2IPprWrWINgFIwCtO5AG4wdRk+x3b2P7zj3gL2iLaPCsaOtj3U2fcyiVxSwvscL8l4Dl4YaW1wbd5mcaA/iQE7MDjKQAA",
+      "hero": false
+    },
+    {
+      "id": "g70-img-20240627-wa0038",
+      "file": "IMG-20240627-WA0038.jpg",
+      "width": 900,
+      "height": 600,
+      "alt": "Wedding catering setup by Shree Gajanan Caterers in Jaipur",
+      "category": "weddings",
+      "score": 41.61,
+      "night": false,
+      "src": {
+        "avif": {
+          "640": "/gallery/g70-img-20240627-wa0038-w640.avif",
+          "900": "/gallery/g70-img-20240627-wa0038-w900.avif"
+        },
+        "webp": {
+          "640": "/gallery/g70-img-20240627-wa0038-w640.webp",
+          "900": "/gallery/g70-img-20240627-wa0038-w900.webp"
+        }
+      },
+      "srcWebp": "/gallery/g70-img-20240627-wa0038-w900.webp",
+      "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAwCdASoYABAAPzmGuVOvKKWisAgB4CcJYgC06A6E5uaV5dgAAP5vm9Q2lOJIBWE+M6xMMPR1M8tg8SDS7C6D3geT3Fx4kOrIWrnH2I+Uj5Va28gjy3Fah4t9bcGAAAA=",
+      "hero": false
+    }
+  ]
+}

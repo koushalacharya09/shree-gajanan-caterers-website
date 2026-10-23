@@ -1,46 +1,88 @@
-# Shree Gajanan Caterers — Premium Website
+# Shree Gajanan Caterers — royal catering website
 
-Premium SEO-optimized catering website for **Shree Gajanan Caterers**, Jaipur.
+Pure-vegetarian wedding and event catering house in Jaipur. This repository is a lead-generation site: local SEO pages, bilingual UI, a validated enquiry API, and photography from real work.
 
-## Brand Info
-- **Phone:** +91 82096 79146
-- **Address:** 999, Tansukh Shri Mal Ki Gali, Pano ka Dariba, Subhash Chowk, Pink City, Jaipur 302002
-- **Instagram:** [@shree.gajanancaterers](https://www.instagram.com/shree.gajanancaterers/)
-- **Facebook:** [Shree Gajanan Caterers](https://www.facebook.com/shri.gajanancaterersjaipur/)
+![Homepage screenshot](docs/screenshot-home.png)
 
-## Pages
-| File | SEO Target |
-|------|-----------|
-| `index.html` | Main homepage — best catering services Jaipur |
-| `wedding-catering-jaipur.html` | Wedding catering Jaipur |
-| `corporate-catering-jaipur.html` | Corporate event catering |
-| `rajasthani-catering-jaipur.html` | Rajasthani food / Dal Bati Churma |
+> Add a production screenshot at `docs/screenshot-home.png` after the first deploy.
 
-## SEO Features
-- JSON-LD structured data (LocalBusiness, CateringService)
-- Open Graph & Twitter meta tags
-- Canonical URLs & geo meta tags
-- FAQ schema-ready content
-- Hindi + English keywords for Jaipur audience
-- `sitemap.xml` & `robots.txt`
-- Mobile-first responsive design
-- WhatsApp lead capture form
+## Why this stack
 
-## Local Preview
-Open `index.html` in a browser, or run:
-```bash
-npx serve .
+| Piece | Role |
+| --- | --- |
+| **Next.js 14 App Router** | Static generation for SEO landings + serverless `/api/lead` |
+| **TypeScript** | Typed landings, leads, gallery manifest |
+| **Tailwind CSS** | Flat matte royal system (maroon / gold / ivory / charcoal) |
+| **next/font** | Cormorant Garamond, Inter, Noto Serif Devanagari without layout shift |
+| **Framer Motion** | Hero crossfade |
+| **GSAP ScrollTrigger** | Timeline + parallax (transform only, respects reduced motion) |
+| **Lenis** | Smooth scroll, disabled when `prefers-reduced-motion` |
+| **sharp** | AVIF/WebP pipeline, blur placeholders, hero ranking |
+| **zod** | Lead validation |
+| **Supabase** | Durable lead store (optional until env is set) |
+| **Resend** | Email notify (optional) |
+| **GA4 + Meta Pixel** | `lead_submit`, `whatsapp_click`, `call_click` |
+
+## Architecture
+
+```
+browser  →  /en | /hi  (App Router, hreflang)
+         →  /api/lead  (zod, honeypot, rate limit)
+                ├─ Supabase `leads`
+                ├─ Resend email
+                └─ WhatsApp deep-link response
+         →  /admin/leads  (password cookie + CSV)
 ```
 
-## Deploy
-Upload all files to any static host (Netlify, Vercel, GitHub Pages, cPanel). Update the domain in:
-- `index.html` canonical & schema URLs
-- `sitemap.xml`
-- `robots.txt`
+Photography lives in `public/gallery` (never ship a file over 400KB). Manifest: `src/data/gallery.json`.
 
-## Next Steps for Maximum Reach
-1. **Google Business Profile** — Claim & link to this website
-2. **Real photos** — Replace gallery placeholders with Instagram/Facebook images
-3. **Custom domain** — e.g. `shreegajanancaterers.in`
-4. **Google Search Console** — Submit sitemap
-5. **Reviews** — Encourage clients to leave Google reviews
+## Setup
+
+```bash
+npm install
+cp .env.example .env.local
+npm run optimize          # from C:\Users\user\Downloads\catering photos
+npm run dev
+```
+
+```bash
+npm run lint
+npm run typecheck
+npm test
+npm run build
+```
+
+Drop the round crest at `public/brand/logo.svg` (placeholder SVG is already there).
+
+## Environment
+
+See `.env.example`. Without Supabase/Resend the form still validates, rate-limits, and returns a WhatsApp link.
+
+SQL: `docs/supabase.sql`.
+
+## Deploy (Vercel)
+
+1. Import this GitHub repo.
+2. Framework: Next.js. Production URL: `https://www.shreegajanancaterers.online`.
+3. Paste env vars from `.env.example`.
+4. DNS (once the project is assigned):
+
+| Type | Name | Value |
+| --- | --- | --- |
+| A | `@` | `76.76.21.21` |
+| CNAME | `www` | `cname.vercel-dns.com` |
+
+Confirm the exact values in the Vercel domain panel — they can vary by account.
+
+## Lighthouse
+
+Target: LCP < 2.0s, CLS < 0.05, INP < 200ms, 95+ on all four categories. Run against production after DNS, not `localhost`.
+
+## Portfolio blurb
+
+```
+👑 Shree Gajanan Caterers: Royal Catering Website · Next.js TypeScript Tailwind Framer Motion GSAP Node.js Supabase SEO
+Lead-generation site for a Jaipur veg catering house: bilingual local SEO, validated enquiries, WhatsApp handoff.
+Photography pipeline, Core Web Vitals budget, and a passworded leads desk — frontend to backend, end to end.
+→ View Repository
+```

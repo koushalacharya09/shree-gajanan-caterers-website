@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --maroon: #6b1220;
+  --gold: #b8860b;
+  --ivory: #fffdf8;
+  --charcoal: #1c1917;
+  --header-h: 76px;
+}
+
+html,
+body {
+  background: var(--ivory);
+  color: var(--charcoal);
+}
+
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.hairline {
+  border-color: rgba(184, 134, 11, 0.45);
+}
+
+.gold-rule {
+  height: 1px;
+  background: #b8860b;
+  opacity: 0.45;
+}
+
+.clip-wipe img {
+  clip-path: inset(0 0 0 0);
+  transition: clip-path 0.7s cubic-bezier(0.22, 1, 0.36, 1), transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.clip-wipe:hover img {
+  clip-path: inset(0 0 0 12%);
+  transform: scale(1.04);
+}
+
+.masonry {
+  columns: 1;
+  column-gap: 12px;
+}
+
+@media (min-width: 640px) {
+  .masonry {
+    columns: 2;
+  }
+}
+
+@media (min-width: 1024px) {
+  .masonry {
+    columns: 3;
+  }
+}
+
+.masonry figure {
+  break-inside: avoid;
+  margin-bottom: 12px;
+}
+
+:focus-visible {
+  outline: 2px solid #b8860b;
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+  .hero-slide img {
+    transform: none !important;
+  }
+}
+
+body {
+  padding-bottom: 64px;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding-bottom: 0;
+  }
+}
